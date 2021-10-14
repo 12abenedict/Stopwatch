@@ -3,9 +3,11 @@ body {
   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
   height: 100%;
 }
-
+div{
+  width: 65%;
+}
 .wrapper {
-  width: 800px;
+  /* width: 800px; */
   margin: 30px auto;
   color: #fff;
   text-align: center;
